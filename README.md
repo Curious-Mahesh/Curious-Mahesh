@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning blockchain development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me?
-You can either dm me on my twitter profile- maheshd20112000
+You can dm me on my twitter profile- maheshd20112000
 
 
 <!---
